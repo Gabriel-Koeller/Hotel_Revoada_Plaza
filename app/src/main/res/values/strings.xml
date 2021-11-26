@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Hotel Revoada Plaza</string>
+    <string name="Entrar">Entrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui!</string>
+    <string name="Title_Cadastro">Cadastre-se</string>
+    <string name="Cadastrar">Cadastrar</string>
+    <string name="Title_Menu">Menu</string>
+    <string name="Info_Name">Nome da pessoa</string>
+    <string name="Info_Email">Email da pessoa</string>
+    <string name="Cadastrar_Reservas">Criar uma reserva</string>
+    <string name="Consulta_Reservas">Consultar reserva</string>
+    <string name="Deslogar">Deslogar</string>
+    <string name="Criar_Reserva">Criar Reserva</string>
+    <string name="Voltar">Voltar</string>
+    <string name="Aceitar">Aceitar</string>
+    <string name="Pesquisar">Pesquisar</string>
+    <string name="Politica1">Política de Privacidade
+    </string>
+    <string name="Politica2">O Hotel Revoada Plaza se preocupa com a privacidade dos seus Usuários e tem o compromisso de preservá-la. É por meio desta Política de Privacidade (“Política”) da Plataforma que explicaremos como nós tratamos os seus dados pessoais e o que faremos para respeitar a sua integridade.
+    </string>
+    <string name="Politica3">Eventualmente, poderemos desenvolver novos serviços ou oferecer serviços adicionais. Se a introdução destes novos Serviços resultar em alguma alteração na forma como coletamos ou tratamos os dados pessoais do Usuário, disponibilizaremos mais informações, termos ou políticas adicionais. Salvo disposição em contrário, sempre que introduzirmos estes novos serviços ou funcionalidades adicionais, estes ficarão sujeitos à presente Política.
+    </string>
+    <string name="Politica4">Esperamos que a presente Política auxilie o Usuário a compreender os nossos compromissos referentes à sua privacidade. Para obter informações sobre como entrar em contato conosco, em caso de quaisquer dúvidas ou preocupações, o Usuário poderá consultar-nos a qualquer momento. Caso o Usuário não deseje que seus dados pessoais sejam tratados, especialmente quando estes sejam necessários para o fornecimento dos Serviços, poderá optar por não utilizar a Plataforma.
+    </string>
+    <string name="Politica5">Leia com atenção as informações aqui apresentadas, pois ao utilizar os serviços do Hotel Revoada Plaza o usuário estará anuindo com os termos e condições previstos nesta Política de Privacidade e com todos os outros avisos que possam aparecer nas páginas da plataforma, pertinentes a referida política.
+    </string>
+    <string name="Politica6">Como coletamos
+        seus dados
+    </string>
+    <string name="Politica7">Coletamos seus dados a partir das seguintes fontes:
+    </string>
+    <string name="Politica8">•	Nós do Hotel Revoada coletamos seus dados através de seu cadastro em
+        nossas plataformas, disponibilizamos serviços Web e mobile e caso possam estar
+        presencialmente em nosso hotel, ao realizar sua reserva coletamos seus dados também.
+        Coletamos informações como: Nome completo, CPF, data de nascimento, telefone, e-mail, CEP.
+    </string>
+    <string name="Politica9">Compartilhamento de Dados Pessoais
+    </string>
+    <string name="Politica10">•	O Hotel Revoada tem total compromisso com a segurança de seus dados,
+        mas para que possamos prestar nossos serviços com qualidade e atender a legislação vigente,
+        precisamos compartilhar alguns dados pessoais.
+
+        Compartilhamos seus dados quando aplicável com:
+    </string>
+    <string name="Politica11">
+        •	Instituições financeiras, administradoras de cartão de crédito e de pagamentos;
+        •	Empresas de prevenção à fraude;
+        •	Instituições Governamentais/autoridades policiais e judiciárias, para atendimento de legislação vigente; atendimento às demandas judiciais/administrativas e controle fiscal;
+        •	Provedores de armazenamento;
+        •	Consultores, advogados, contadores e outros prestadores de serviços;
+        •	Mediante consentimento, de maneiras diferentes das listadas nesta política.
+    </string>
+    <string name="Politica12">
+        Medidas de Segurança
+    </string>
+    <string name="Politica13">
+        O Hotel Revoada Plaza investe continuamente e dispõe de medidas técnicas e administrativas
+        de segurança para proteger seus dados, alinhadas as melhores práticas de segurança da
+        informação. Nós do Hotel Revoada Plaza prezamos pela Confidencialidade, Integridade e
+        Disponibilidade das informações e dos dados pessoais dos clientes, colaboradores e parceiros
+        de negócios. Há a busca contínua de métodos de proteção contra ações danosas que visam
+        utilizar, acessar, alterar e/ou destruir dados indevidamente, dentre elas, citamos:
+    </string>
+    <string name="Politica14">
+    •	Controle de acesso físico de nossos funcionários aos ambientes corporativos;
+    •	Somente profissionais capacitados e aptos tem acesso aos dados e também por profissionais que exercem funções necessárias para atendimento das finalidades específicas;
+    •	Fazemos o monitoramento incessante contínuo dos sistemas de informações, de modo a prevenir, detectar e bloquear ações danosas;
+    •	Armazenamento e transferência de dados utilizando métodos seguros.
+
+    </string>
+
+    <string name="Politica15">
+        Seus Direitos
+    </string>
+    <string name="Politica16">
+        O Hotel Revoada visa atender todos os direitos de nossos clientes, conforme definido na Lei, no
+        que tange tratamento de dados pessoais:
+    </string>
+    <string name="Politica17">
+        •	Confirmar a existência e como fazemos uso de seus dados;
+        •	Acessar os dados;
+        •	Obter informação adicional sobre o uso e compartilhamento de dados;
+        •	Fazer a correção dos seus dados;
+        •	Caso necessário solicitar a portabilidade dos dados;
+        •	Revogar o consentimento de algum tratamento de dados;
+        •	Solicitar a eliminação de dados pessoais.
+    </string>
+    <string name="Politica18">
+        Dúvidas
+    </string>
+    <string name="Politica19">
+        •	Caso tenha qualquer dúvida em relação ao presente documento ou ao Hotel Revoada, envie
+        um e-mail para atendimento@hotelrevoada.com.br
+    </string>
+
+</resources>

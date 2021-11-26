@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="40dp"
+        android:background="@drawable/background"
+        tools:context=".TermoPoliticaDePrivacidade">
+
+        <View
+            android:id="@+id/container"
+            style="@style/ContainerComponents2"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Politica1"
+            android:layout_marginTop="20dp"
+            android:textSize="23sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toTopOf="@+id/container" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:text="@string/Politica2"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica3"
+            android:textAlignment="center"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica4"
+            android:textAlignment="center"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica5"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica6"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:textAlignment="center"
+            android:textSize="23sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:text="@string/Politica7"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView6" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica8"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica9"
+            android:textAlignment="center"
+            android:textSize="23sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica10"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView9" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica11"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView10" />
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica12"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:textAlignment="center"
+            android:textSize="23sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica13"
+            android:textAlignment="center"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+        <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+        android:text="@string/Politica14"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/container"
+        app:layout_constraintStart_toStartOf="@+id/container"
+        app:layout_constraintTop_toBottomOf="@+id/textView13" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica15"
+            android:textAlignment="center"
+            android:textSize="23sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView14" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica16"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView15" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica17"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView16" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:text="@string/Politica18"
+            android:textAlignment="center"
+            android:textSize="23sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView17" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:paddingRight="6dp"
+            android:paddingLeft="6dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/Politica19"
+            android:textAlignment="center"
+            android:textSize="15sp"
+            app:layout_constraintEnd_toEndOf="@+id/container"
+            app:layout_constraintStart_toStartOf="@+id/container"
+            app:layout_constraintTop_toBottomOf="@+id/textView18" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_aceitar"
+            style="@style/button"
+            android:text="@string/Aceitar"
+            android:textSize="20dp"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:background="@drawable/button"
+            android:layout_marginTop="30dp"
+            app:layout_constraintTop_toBottomOf="@+id/textView19"
+            tools:ignore="MissingConstraints" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_voltar_login"
+            style="@style/button"
+            android:text="@string/Voltar"
+            android:textSize="20dp"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:background="@drawable/button"
+            android:layout_marginTop="30dp"
+            app:layout_constraintTop_toBottomOf="@id/btn_aceitar"
+            tools:ignore="MissingConstraints" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</ScrollView>
+
